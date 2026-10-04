@@ -1,0 +1,2 @@
+{"question": "Replace with a question your documents can answer", "ground_truth": "Expected answer"}
+{"question": "Replace with an unanswerable question (should be refused)", "ground_truth": "I don't know based on the provided documents."}
