@@ -1,0 +1,10 @@
+.venv/
+.env
+data/
+__pycache__/
+.pytest_cache/
+.streamlit/secrets.toml
+build/
+dist/
+release/
+*.spec.bak
