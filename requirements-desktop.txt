@@ -1,0 +1,4 @@
+# Extra dependencies for building the desktop app
+pyinstaller>=6.10
+pywebview>=5.3; sys_platform != "linux"
+pywebview[qt]>=5.3; sys_platform == "linux"
